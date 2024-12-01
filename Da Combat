@@ -1,0 +1,19 @@
+{
+  "codes": [
+    {
+      "code": "FREECOINS",
+      "reward": "1000 Coins",
+      "expires": "2024-12-31"
+    },
+    {
+      "code": "DOUBLEXP",
+      "reward": "Double XP for 1 Hour",
+      "expires": "2024-12-31"
+    },
+    {
+      "code": "SPECIALITEM",
+      "reward": "Exclusive Sword",
+      "expires": "2024-12-25"
+    }
+  ]
+}
